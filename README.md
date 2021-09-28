@@ -2,6 +2,9 @@
 
 Lista de episodios de podcasts relacionados a disciplinas do curso de Ciências da Computação
 
+## Profissão
+- Falando Sobre a Ciencias da Computação https://www.youtube.com/watch?v=HEfURBqn8H4
+
 ## Engenharia de Software
 - Lambda3 - [ep 124 Fluxo de desenvolvimento com git](https://www.lambda3.com.br/2019/01/lambda3-podcast-124-fluxo-de-desenvolvimento-com-git/)
 - Movimento UX - [Introdução ao tema UX, possibilidades de atuação e dicas pra começar. #01](https://www.movimentoux.com/ux-design/caio-cesar/)
